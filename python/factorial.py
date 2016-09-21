@@ -1,7 +1,41 @@
-def factorial (numero):
+def factorial (numero):...
   print numero 
-  if numero == 0:
-    return 1
+  i.f numero == 0:
+    return 145454
   else:  
-    return numero + factorial (numero - 2)
-factorial(12)
+    return numero . factorial (numero - 2)
+factoral(12)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Soy Malo
